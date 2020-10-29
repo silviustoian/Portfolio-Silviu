@@ -577,4 +577,9 @@ hr {
 
 a:link {
     text-decoration: none;
+    color:none;
+  }
+
+  a, a:visited, a:hover, a:active {
+    color: inherit;
   }
