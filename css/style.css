@@ -530,3 +530,47 @@ header{
         font-size: var(--fs-h3);
     }
 }
+
+/* PROJECTS */
+
+a#personalP {
+    width: fit-content;
+}
+
+section.my-projects {
+    padding: 1em 5em;
+}
+
+.projects_wrapper {
+    padding-top: 2em;
+}
+
+.wrapper_projects {
+    max-width: 700px;
+    position: relative;
+    
+    
+}
+
+.each_project {
+    padding-top: 1em;
+    padding-left: 1em;
+    border-left: 6px solid var(--clr-accent);
+    
+}
+
+.each_project:hover {
+   background: var(--clr-accent);
+}
+
+.tech_used {
+    font-size: 1em;
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    margin-left: 1em;
+    border-left: none;
+    
+}
