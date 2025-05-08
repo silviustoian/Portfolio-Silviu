@@ -16,7 +16,7 @@ const Hero = () => {
             >
               FrontEnd Developer
             </span>
-            <p className="my-2 max-w-xl py-6 font-light tracking-tighter">{HERO_CONTENT}</p>
+            <p className="my-2 max-w-xl py-8 font-light tracking-tighter">{HERO_CONTENT}</p>
           </div>
         </div>
         <div className="w-full lg:w-1/2 lg:p-8">

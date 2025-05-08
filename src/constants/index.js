@@ -3,43 +3,44 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate frontend developer with a knack for crafting robust and
- scalable web applications. With 4 years of hands-on experience, I have honed my skills in front-end technologies 
- like React, JavaScript (ES6+), CSS, SCSS, Tailwind CSS, and Vite. My goal is to leverage my expertise to create 
- innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Frontend Developer focused on performance, scalability, and clean design.
+With 4+ years of experience, I build modern, responsive web apps using React, JavaScript(ES6+), Vite and Tailwind CSS.
+Driven by curiosity and precision, I enjoy solving real-world problems through intuitive, efficient interfaces.`;
 
-export const ABOUT_TEXT = `I’m a passionate Frontend Developer with 4 years of experience building robust and scalable web applications. My expertise lies in modern front-end technologies such as React, JavaScript (ES6+), CSS, SCSS, Tailwind CSS, and Vite. I thrive on crafting intuitive, high-performance user interfaces that deliver exceptional user experiences and drive business growth.
+export const ABOUT_TEXT = `I’m a frontend developer with 4 years of experience creating performant and scalable web applications. My background includes working with modern tools and frameworks like React, ES6+, Tailwind, SCSS, and Vite to build seamless digital products.
 
-With a strong focus on innovation and attention to detail, I enjoy transforming complex ideas into seamless digital solutions. Whether it’s developing dynamic single-page applications or optimizing existing platforms, I’m dedicated to creating impactful results that stand out.`;
+I’m passionate about translating complex ideas into functional, intuitive interfaces that users enjoy. I pay close attention to both user experience and code quality, and I thrive in environments where clean design meets solid engineering. From interactive dashboards to landing pages optimized for conversion, I bring both creativity and structure to every project.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "2021 - Present",
+    role: "Senior Full End Developer",
+    company: "Instapage",
+    description: `I'm currently working full-time at Instapage as a Front-End Developer, after initially starting as a freelancer. Over the past three years, I've had the opportunity to grow within the team, take ownership of my work, and contribute to a platform used by thousands of marketers worldwide. The experience has strengthened both my technical skills and my ability to manage projects independently`,
+    technologies: ["Javascript", "Angular.js", "HTML", "CSS"],
   },
   {
-    year: "2022 - 2023",
+    year: "2022 - 2021",
     role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    company: "Cognizant Softvision",
+    description: `I worked at Softvision, a global software company headquartered in Timișoara, with offices around the world. I joined the team to take my developer skills to the next level and gain experience in a fast-paced, high-standard engineering environment.`,
+    technologies: ["HTML", "CSS", "React.js", "JSON", "Node.js"],
   },
   {
-    year: "2021 - 2022",
+    year: "October 2019 - Nov 2020",
     role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    company: "Wishpond",
+    description: `I was responsible for front-end integrations across all campaigns prior to launch, ensuring seamless execution across platforms. I also managed and optimized Facebook, Instagram, and Google Ads for selected clients, and contributed to SEO efforts and performance reporting. My tech stack included JavaScript, JSON, PHP, HTML, CSS, and SQL.`,
+    technologies: ["HTML", "JS", "CSS", "SQL", "JSON", "PHP"],
   },
   {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "Jan 2019 - Sep 2019",
+    role: "Junior Frontend Developer",
+    company: "Toluna",
+    description: `Spent nearly a year at Toluna working as a Frontend Dev, where I gained hands-on experience with HTML, CSS, and JavaScript in a production setting. This role served as a strong foundation in my development career, giving me early exposure to team collaboration, project workflows, and the dynamics of a structured, office-based environment.
+
+    `,
+    technologies: ["HTML", "CSS", "JS"],
   },
 ];
 
@@ -76,6 +77,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  phoneNo: "+4 0761 858 729",
+  email: "silviu.stoian96@gmail.com",
 };
