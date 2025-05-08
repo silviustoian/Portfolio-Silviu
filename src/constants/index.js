@@ -20,7 +20,7 @@ export const EXPERIENCES = [
     technologies: ["Javascript", "Angular.js", "HTML", "CSS"],
   },
   {
-    year: "2022 - 2021",
+    year: "2020 - 2021",
     role: "Frontend Developer",
     company: "Cognizant Softvision",
     description: `I worked at Softvision, a global software company headquartered in Timișoara, with offices around the world. I joined the team to take my developer skills to the next level and gain experience in a fast-paced, high-standard engineering environment.`,
