@@ -14,7 +14,7 @@ I’m passionate about translating complex ideas into functional, intuitive inte
 export const EXPERIENCES = [
   {
     year: "2021 - Present",
-    role: "Senior Full End Developer",
+    role: "Senior Front End Developer",
     company: "Instapage",
     description: `I'm currently working full-time at Instapage as a Front-End Developer, after initially starting as a freelancer. Over the past three years, I've had the opportunity to grow within the team, take ownership of my work, and contribute to a platform used by thousands of marketers worldwide. The experience has strengthened both my technical skills and my ability to manage projects independently`,
     technologies: ["Javascript", "Angular.js", "HTML", "CSS"],
