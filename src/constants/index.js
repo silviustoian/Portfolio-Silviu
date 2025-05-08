@@ -7,7 +7,7 @@ export const HERO_CONTENT = `Frontend Developer focused on performance, scalabil
 With 4+ years of experience, I build modern, responsive web apps using React, JavaScript(ES6+), Vite and Tailwind CSS.
 Driven by curiosity and precision, I enjoy solving real-world problems through intuitive, efficient interfaces.`;
 
-export const ABOUT_TEXT = `I’m a frontend developer with 4 years of experience creating performant and scalable web applications. My background includes working with modern tools and frameworks like React, ES6+, Tailwind, SCSS, and Vite to build seamless digital products.
+export const ABOUT_TEXT = `I’m a frontend developer with 6 years of experience creating performant and scalable web applications. My background includes working with modern tools and frameworks like React, ES6+, Tailwind, SCSS, and Vite to build seamless digital products.
 
 I’m passionate about translating complex ideas into functional, intuitive interfaces that users enjoy. I pay close attention to both user experience and code quality, and I thrive in environments where clean design meets solid engineering. From interactive dashboards to landing pages optimized for conversion, I bring both creativity and structure to every project.`;
 
